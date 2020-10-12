@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>item</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-12 20:30:05</sys_created_on>
+        <sys_data_policy display_value="Sets the Item field to mandatory">3978e7391b3310100339fc86cc4bcbab</sys_data_policy>
+        <sys_id>3d78e7391b3310100339fc86cc4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Wish List" source="x_71384_wish_list">bad76bb51b3310100339fc86cc4bcb65</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">bad76bb51b3310100339fc86cc4bcb65</sys_scope>
+        <sys_update_name>sys_data_policy_rule_3d78e7391b3310100339fc86cc4bcbad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-12 20:30:05</sys_updated_on>
+        <table>x_71384_wish_list_wish_item</table>
+    </sys_data_policy_rule>
+</record_update>
